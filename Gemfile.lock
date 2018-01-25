@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bindata (2.4.1)
+    fiddler-rb (0.1.2)
+    leveldb (0.1.9)
+      fiddler-rb (~> 0.1.1)
+    leveldb-ruby (0.15)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bindata (~> 2.4.1)!
+  leveldb (~> 0.1.9)!
+  leveldb-ruby (~> 0.15.0)!
+
+BUNDLED WITH
+   1.15.4
