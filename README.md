@@ -12,7 +12,7 @@ gem build leveldb_curator.gemspec
 gem install ./leveldb_curator-0.1.0.gem
 ```
 
-## Example daemon ##
+## Example server implementation ##
 
 ```ruby
 require "leveldb_curator"
