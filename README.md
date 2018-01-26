@@ -6,9 +6,11 @@ for `put` and `get` commands.
 
 ## Installation ##
 
-`bundle install`
-`gem build leveldb_curator.gemspec`
-`gem install leveldb_curator-0.1.0.gem`
+```
+bundle install
+gem build leveldb_curator.gemspec
+gem install ./leveldb_curator-0.1.0.gem
+```
 
 ## Example daemon ##
 
